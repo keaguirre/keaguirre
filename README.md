@@ -14,7 +14,7 @@
 				<img src="https://img.icons8.com/color/32/000000/bootstrap.png" alt="bootrap_logo">
 				<img src="https://img.icons8.com/color/32/000000/django.png" alt="django_logo">
 			</li>
-			<li>-Conocimiento en distribuciones en linux como ubuntu y manjaro. <img src="https://img.icons8.com/color/32/000000/ubuntu--v1.png" alt="ubuntu_logo"></li>
-			<li>-Distro en uso actual: Fedora. <img src="https://img.icons8.com/fluency/32/000000/fedora.png" alt="fedora_logo"></li>
+			<li>Conocimiento en distribuciones en linux como ubuntu y manjaro. <img src="https://img.icons8.com/color/32/000000/ubuntu--v1.png" alt="ubuntu_logo"></li>
+			<li>Distro en uso actual: Fedora. <img src="https://img.icons8.com/fluency/32/000000/fedora.png" alt="fedora_logo"></li>
 		</ul>
 	</ul>
