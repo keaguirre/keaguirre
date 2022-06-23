@@ -3,7 +3,7 @@
 
 <ul>
 	<li>Learning: Web dev<img src="https://img.icons8.com/color/32/000000/git.png" alt="git logo"> <img src="https://img.icons8.com/ios-glyphs/32/000000/github.png" alt="github_logo"></li>
-	<li>To do por aprender:
+	<li>Por aprender:
 		<img src="https://img.icons8.com/color/32/000000/spring-logo.png" alt="springBoot_logo">
 		<img src="https://img.icons8.com/color/32/000000/typescript.png" alt="typescript_logo">
 		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
