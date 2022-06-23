@@ -9,9 +9,12 @@
 		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
 		<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="apache_logo">
 	</li>
-	<li>
-		English B1
-	</li>
+	<li> English B1</li>
+	<li>Mechanical keyboards enthusiast</li>
+	<li>Hardware enthusiast </li>
+
+		
+	
 </ul>
 <h2></h2>
 <table>
