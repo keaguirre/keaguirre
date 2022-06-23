@@ -7,7 +7,7 @@
 			<li>Rhel/CentOS: DHCP, DNS, FTP, SAMBA, NFS. <img src="https://img.icons8.com/color/32/000000/red-hat.png"><img src="https://img.icons8.com/color/32/000000/centos.png" alt=""></li>
 			<li>Python. <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo"></li>
 			<li>Java. <img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo--v1.png" alt=""></li>
-			<li>-Desarrollo web: HTML, CSS, Js básico, Bootstrap y Django. 
+			<li>Desarrollo web: HTML, CSS, Js básico, Bootstrap y Django. 
 				<img src="https://img.icons8.com/color/32/000000/html-5--v1.png" alt="html_logo">
 				<img src="https://img.icons8.com/color/32/000000/css3.png" alt="css_logo">
 				<img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="Javascript_logo">
