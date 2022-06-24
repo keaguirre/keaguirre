@@ -1,7 +1,8 @@
-<h2> Kevin Aguirre</h2>
-<h3> Estudiante Analista Programador Computacional <br> anterior estudiante Ing. Conectividad y redes.</h3>
-
-<ul style="display: inline-block;">
+<div style="margin-left: 20%;">
+	<h2> Kevin Aguirre</h2>
+	<h3> Estudiante Analista Programador Computacional <br> anterior estudiante Ing. Conectividad y redes.</h3>
+</div>
+<ul style="margin-left: 20%;">
 	<li>Learning: Web dev<img src="https://img.icons8.com/color/32/000000/git.png" alt="git logo"> <img src="https://img.icons8.com/ios-glyphs/32/000000/github.png" alt="github_logo"></li>
 	<li>Por aprender:
 		<img src="https://img.icons8.com/color/32/000000/spring-logo.png" alt="springBoot_logo">
@@ -14,7 +15,7 @@
 	<li>Hardware enthusiast </li>
 </ul>
 
-<table style="display: inline-block; margin-left: 10%;">
+<table style="margin-left: 20%;">
 	<th>Experiencia estudiante:</th>
 	<tr>
 		<td>
