@@ -1,6 +1,6 @@
 <div style="margin-left: 20%;">
 	<h2> Kevin Aguirre</h2>
-	<h3> Estudiante Analista Programador Computacional <br> anterior estudiante Ing. Conectividad y redes.</h3>
+	<h3> Estudiante Analista Programador Computacional.</h3>
 </div>
 <ul style="margin-left: 20%;">
 	<li>Aprendiendo: Apps híbridas Ionic/Angular
