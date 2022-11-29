@@ -3,16 +3,17 @@
 	<h3> Estudiante Analista Programador Computacional <br> anterior estudiante Ing. Conectividad y redes.</h3>
 </div>
 <ul style="margin-left: 20%;">
-	<li>Learning: Web dev<img src="https://img.icons8.com/color/32/000000/git.png" alt="git logo"> <img src="https://img.icons8.com/ios-glyphs/32/000000/github.png" alt="github_logo"></li>
-	<li>Por aprender:
-		<img src="https://img.icons8.com/color/32/000000/spring-logo.png" alt="springBoot_logo">
-		<img src="https://img.icons8.com/color/32/000000/typescript.png" alt="typescript_logo">
-		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
-		<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="apache_logo">
+	<li>Aprendiendo: Apps híbridas Ionic/Angular
+		<img src="https://img.icons8.com/color/32/null/ionic.png"/>
+		<img src="https://img.icons8.com/fluency/32/null/angularjs.png"/>
 	</li>
+	<li>Por aprender:
+		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
+		<img src="https://img.icons8.com/color/32/000000/spring-logo.png" alt="springBoot_logo">
+		<img src="https://img.icons8.com/color/32/null/tailwindcss.png"/>
+	</li>	
 	<li> English B1 (Toeic Bridge)</li>
 	<li>Mechanical keyboards enthusiast</li>
-	<li>Hardware enthusiast </li>
 </ul>
 
 <table style="margin-left: 20%;">
@@ -34,6 +35,7 @@
 			<img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="Javascript_logo">
 			<img src="https://img.icons8.com/color/32/000000/bootstrap.png" alt="bootrap_logo">
 			<img src="https://img.icons8.com/color/32/000000/django.png" alt="django_logo">
+			<img src="https://img.icons8.com/fluency/32/null/angularjs.png"/>
 		</td>
 	</tr>
 </table>
