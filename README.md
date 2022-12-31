@@ -3,17 +3,15 @@
 	<h3> Estudiante Analista Programador Computacional.</h3>
 </div>
 <ul style="margin-left: 20%;">
-	<li>Aprendiendo: Apps híbridas Ionic/Angular
-		<img src="https://img.icons8.com/color/32/null/ionic.png"/>
-		<img src="https://img.icons8.com/fluency/32/null/angularjs.png"/>
+	<li>Aprendiendo: ASP.NET Core
+		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
+		<img src="https://img.icons8.com/color/32/null/net-framework.png"/>
 	</li>
 	<li>Por aprender:
-		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
-		<img src="https://img.icons8.com/color/32/000000/spring-logo.png" alt="springBoot_logo">
-		<img src="https://img.icons8.com/color/32/null/tailwindcss.png"/>
-	</li>	
-	<li> English B1 (Toeic Bridge)</li>
-	<li>Mechanical keyboards enthusiast</li>
+		Golang <img src="https://img.icons8.com/color/32/null/golang.png" alt="Golang_logo"/>
+	</li><br>
+	<li> English B1 (Toeic Bridge)</li><br>
+	<li>Mechanical keyboards enthusiast</li><br>
 </ul>
 
 <table style="margin-left: 20%;">
@@ -36,6 +34,7 @@
 			<img src="https://img.icons8.com/color/32/000000/bootstrap.png" alt="bootrap_logo">
 			<img src="https://img.icons8.com/color/32/000000/django.png" alt="django_logo">
 			<img src="https://img.icons8.com/fluency/32/null/angularjs.png"/>
+			<img src="https://img.icons8.com/color/32/null/ionic.png"/>
 		</td>
 	</tr>
 </table>
