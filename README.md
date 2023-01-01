@@ -20,10 +20,10 @@
 		<td>
 			<img src="https://img.icons8.com/color/32/000000/red-hat.png" alt="logo_redhat">
 			<img src="https://img.icons8.com/color/32/000000/centos.png" alt="logo_centos">
-			<img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo">
-			<img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo--v1.png" alt="java logo">
 			<img src="https://img.icons8.com/color/32/000000/ubuntu--v1.png" alt="ubuntu_logo">
 			<img src="https://img.icons8.com/fluency/32/000000/fedora.png" alt="fedora_logo">
+			<img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo">
+			<img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo--v1.png" alt="java logo">
 		</td>
 	</tr>
 	<tr>
