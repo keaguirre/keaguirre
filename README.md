@@ -39,4 +39,18 @@
 	</tr>
 </table>
 <!--START_SECTION:waka-->
+
+```text
+From: 03 December 2022 - To: 02 January 2023
+
+Total Time: 55 hrs 23 mins
+
+TypeScript   23 hrs 34 mins  ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   42.56 %
+HTML         11 hrs 52 mins  ⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   21.44 %
+Python       7 hrs 32 mins   ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   13.61 %
+Markdown     5 hrs 37 mins   ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   10.14 %
+SCSS         5 hrs 2 mins    ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   09.10 %
+Text         31 mins         ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   00.95 %
+```
+
 <!--END_SECTION:waka-->
