@@ -8,7 +8,7 @@
 		<img src="https://img.icons8.com/color/32/null/net-framework.png"/>
 	</li>
 	<li>Por aprender:
-		Golang <img src="https://img.icons8.com/color/32/null/golang.png" alt="Golang_logo"/>
+		Golang <img src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/>
 	</li><br>
 	<li> English B1 (Toeic Bridge)</li><br>
 	<li>Mechanical keyboards enthusiast</li><br>
