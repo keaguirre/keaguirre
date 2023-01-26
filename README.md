@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
+From: 18 January 2023 - To: 25 January 2023
 
-Total Time: 6 hrs 27 mins
+Total Time: 9 hrs 11 mins
 
-Markdown   2 hrs 29 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   38.57 %
-SQL        2 hrs 8 mins    ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   33.30 %
-Other      1 hr 48 mins    ⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   28.12 %
+Markdown   4 hrs 16 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   46.57 %
+SQL        3 hrs 5 mins    ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   33.67 %
+Other      1 hr 48 mins    ⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   19.76 %
 ```
 
 <!--END_SECTION:waka-->
