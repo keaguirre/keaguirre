@@ -3,12 +3,16 @@
 	<h3> Estudiante Analista Programador Computacional.</h3>
 </div>
 <ul style="margin-left: 20%;">
-	<li>Aprendiendo: ASP.NET Core
+	<li>Trabajando en: <a href="https://github.com/keaguirre/proyectoSemestralWeb">Tienda fachera</a> con <img src="https://img.icons8.com/color/32/000000/django.png" alt="django_logo">
+	</li>
+	<!-- <li>Aprendiendo: ASP.NET Core
 		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
 		<img src="https://img.icons8.com/color/32/null/net-framework.png"/>
-	</li>
+	</li> -->
 	<li>Por aprender:
-		Golang <img src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/>
+		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
+		<img src="https://img.icons8.com/color/32/null/net-framework.png"/>
+		<img src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/>
 	</li><br>
 	<li> English B1 (Toeic Bridge)</li><br>
 	<li>Mechanical keyboards enthusiast</li><br>
