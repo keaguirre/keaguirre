@@ -5,7 +5,7 @@
 <ul style="margin-left: 20%;">
 	<li>Trabajando en: El 
 		<a href="https://github.com/keaguirre/CafehuelenBackend">Backend </a>
-		Para <a href=cafehuelen.cl>Cafe Huelen</a>
+		Para <a href=https://cafehuelen.cl>Cafe Huelen</a>
 	</li>
 	<!-- <li>Aprendiendo: ASP.NET Core
 		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
