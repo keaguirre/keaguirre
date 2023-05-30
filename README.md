@@ -3,9 +3,9 @@
 	<h3> Estudiante Analista Programador Computacional.</h3>
 </div>
 <ul style="margin-left: 20%;">
-	<li>Trabajando en: El 
-		<a href="https://github.com/keaguirre/CafehuelenBackend">Backend </a>
-		Para <a href=https://github.com/keaguirre/Cafehuelen>Cafe Huelen</a>
+	<li>Trabajando en:
+		<a href="https://github.com/keaguirre/cafeScript-Backend">cafeScript Backend </a>
+		Para <a href=https://github.com/keaguirre/Cafehuelen>cafeScript</a>
 	</li>
 	<!-- <li>Aprendiendo: ASP.NET Core
 		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
