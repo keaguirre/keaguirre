@@ -5,7 +5,7 @@
 <ul style="margin-left: 20%;">
 	<li>Trabajando en:
 		<a href="https://github.com/keaguirre/cafeScript-Backend">cafeScript Backend </a>
-		Para <a href=https://github.com/keaguirre/Cafehuelen>cafeScript</a>
+		Para <a href="https://github.com/keaguirre/cafeScript">cafeScript</a>
 	</li>
 	<!-- <li>Aprendiendo: ASP.NET Core
 		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
