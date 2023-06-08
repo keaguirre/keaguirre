@@ -47,15 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2023 - To: 06 June 2023
+From: 31 May 2023 - To: 07 June 2023
 
-Total Time: 20 hrs 27 mins
+Total Time: 20 hrs
 
-HTML         12 hrs 16 mins  ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   60.01 %
-Python       4 hrs 55 mins   ⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   24.09 %
-Markdown     1 hr 20 mins    ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   06.60 %
-TypeScript   38 mins         ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   03.14 %
-XML          34 mins         ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   02.77 %
+HTML         11 hrs 56 mins  ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   59.62 %
+Python       3 hrs 2 mins    ⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   15.24 %
+Markdown     1 hr 23 mins    ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   06.92 %
+TypeScript   1 hr 22 mins    ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   06.85 %
+SQL          1 hr 3 mins     ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   05.26 %
 ```
 
 <!--END_SECTION:waka-->
