@@ -14,7 +14,7 @@
 		<img height="20" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/>
 	</li><br>
 	<li> English B1 (Toeic Bridge)</li><br>
-	<li>Mechanical keyboards enthusiast</li><br>
+	<li>Mechanical keyboards enthusiast</li>
 </ul>
 <h1>Experiencia</h1>
 <ul>
