@@ -59,7 +59,7 @@
 		<h3>Web de tienda de mascotas y administración de productos</h3>
 	</li>
 	<li>
-		<h2>Otros experiencia estudiante</h2>
+		<h2>Otros</h2>
 		<img src="https://img.icons8.com/color/32/000000/red-hat.png" alt="logo_redhat">
 		<img src="https://img.icons8.com/color/32/000000/centos.png" alt="logo_centos">
 		<img src="https://img.icons8.com/color/32/000000/ubuntu--v1.png" alt="ubuntu_logo">
