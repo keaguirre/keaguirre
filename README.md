@@ -3,18 +3,15 @@
 	<h3> Estudiante Analista Programador Computacional.</h3>
 </div>
 <ul style="margin-left: 20%;">
+	<!--
 	<li>Trabajando en:
 		<a href="https://github.com/keaguirre/cafeScript">cafeScript</a> y
 		<a href="https://github.com/keaguirre/cafeScript-Backend">cafeScript Backend </a>
 	</li>
-	<!-- <li>Aprendiendo: ASP.NET Core
-		<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
-		<img src="https://img.icons8.com/color/32/null/net-framework.png"/>
-	</li> -->
+	-->
 	<li>Por aprender:
-		<!-- <img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="c_sharp_logo">
-		<img src="https://img.icons8.com/color/32/null/net-framework.png"/> -->
-		<img src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/>
+		Algoritmos en <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo"> &
+		<img height="20" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/>
 	</li><br>
 	<li> English B1 (Toeic Bridge)</li><br>
 	<li>Mechanical keyboards enthusiast</li><br>
@@ -30,6 +27,7 @@
 			<img src="https://img.icons8.com/fluency/32/000000/fedora.png" alt="fedora_logo">
 			<img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo">
 			<img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo--v1.png" alt="java logo">
+			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo"/>
 		</td>
 	</tr>
 	<tr>
@@ -37,9 +35,10 @@
 			<img src="https://img.icons8.com/color/32/000000/html-5--v1.png" alt="html_logo">
 			<img src="https://img.icons8.com/color/32/000000/css3.png" alt="css_logo">
 			<img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="Javascript_logo">
-			<img src="https://img.icons8.com/color/32/000000/bootstrap.png" alt="bootrap_logo">
+			<img src="https://img.icons8.com/color/32/typescript.png" alt="typescript"/>
+		<!--	<img src="https://img.icons8.com/color/32/000000/bootstrap.png" alt="bootrap_logo"> -->
+			<img src="https://img.icons8.com/color/32/tailwindcss.png" alt="tailwindcss"/>
 			<img src="https://img.icons8.com/color/32/000000/django.png" alt="django_logo">
-			<img src="https://img.icons8.com/fluency/32/null/angularjs.png"/>
 			<img src="https://img.icons8.com/color/32/null/ionic.png"/>
 		</td>
 	</tr>
