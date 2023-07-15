@@ -51,10 +51,10 @@
 			<a href="https://github.com/keaguirre/proyectoSemestralWeb">Tienda Facherita</a>
 			<img src="https://img.icons8.com/color/32/000000/html-5--v1.png" alt="html_logo">
 			<img src="https://img.icons8.com/color/32/000000/css3.png" alt="css_logo">
-			<img width="32" height="32" src="https://img.icons8.com/color/32/bootstrap.png" alt="bootstrap"/>
+			<img  src="https://img.icons8.com/color/32/bootstrap.png" alt="bootstrap"/>
 			<img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="Javascript_logo">
 			<img src="https://img.icons8.com/color/32/000000/django.png" alt="django_logo">
-			<span>sqlite3 icon</span>
+			<img width="32" height="32" src="https://raw.githubusercontent.com/keaguirre/keaguirre/180098ef0eb7f47b0b00c2d139d367636f06ef88/icons/sqlite-color.svg" alt="sqlite_logo">
 		</h2>
 		<h3>Web de tienda de mascotas y administración de productos</h3>
 	</li>
