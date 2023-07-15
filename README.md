@@ -1,7 +1,9 @@
 <div style="margin-left: 20%;">
 	<h2> Kevin Aguirre</h2>
+	<img align="right" height="170" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
 	<h3> Analista Programador Computacional.</h3>
 </div>
+
 <ul style="margin-left: 20%;">
 	<!--
 	<li>Trabajando en:
@@ -16,6 +18,7 @@
 	<li> English B1 (Toeic Bridge)</li>
 	<li>Mechanical keyboards enthusiast</li>
 </ul>
+
 <h1>Experiencia</h1>
 <ul>
 	<li>
