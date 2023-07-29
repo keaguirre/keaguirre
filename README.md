@@ -37,7 +37,7 @@
 	<li>
 		<h2>	
 			<a href="https://github.com/keaguirre/teLlevoApp">TeLlevoAPP</a> & 
-		    	<a href="https://github.com/keaguirre/cafeScript-Backend">TeLlevoAPP Backend</a>
+		    	<a href="https://github.com/keaguirre/teLlevoAPP-Backend">TeLlevoAPP Backend</a>
 			<img src="https://img.icons8.com/color/32/000000/html-5--v1.png" alt="html_logo">
 			<img src="https://img.icons8.com/color/32/null/ionic.png"/>
 			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo"/>
