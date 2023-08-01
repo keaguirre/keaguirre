@@ -12,7 +12,8 @@
 	-->
 	<li>Por aprender:
 		Algoritmos en <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo"> &
-		<img height="20" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/>
+		<img src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+		<!-- <img height="20" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/> -->
 	</li>
 	<li> English B1 (Toeic Bridge)</li>
 	<li>Mechanical keyboards enthusiast</li>
