@@ -22,7 +22,6 @@
 <h1>Experiencia</h1>
 <ul>
 	<li>
-		<img width="160" src="https://raw.githubusercontent.com/keaguirre/cafeScript/master/Documentos/Screenshots/web_preview.png" alt="cartas con imagenes de tazas de cafe"/>
 		<h2>	
 			<a href="https://github.com/keaguirre/cafeScript">CafeScript</a> & 
 		    	<a href="https://github.com/keaguirre/cafeScript-Backend">CafeScript Backend</a>
@@ -37,7 +36,6 @@
 		<h3>App de Autoservicio para Cafetería cafeScript</h3>
 	</li>
 	<li>
-		<img src="https://raw.githubusercontent.com/keaguirre/teLlevoApp/master/Screenshots/login.png" alt="cuadros de texto para ingreso de sesion"/>
 		<h2>	
 			<a href="https://github.com/keaguirre/teLlevoApp">TeLlevoAPP</a> & 
 		    	<a href="https://github.com/keaguirre/teLlevoAPP-Backend">TeLlevoAPP Backend</a>
