@@ -101,12 +101,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
-Total Time: 39 mins
+Total Time: 5 hrs 5 mins
 
-Markdown   37 mins         ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪   94.57 %
-Other      2 mins          ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   05.43 %
+HTML       4 hrs 18 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪   84.67 %
+Markdown   37 mins         ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   12.39 %
+CSS        6 mins          ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   02.07 %
+Other      2 mins          ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   00.71 %
+XML        0 secs          ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   00.17 %
 ```
 
 <!--END_SECTION:waka-->
