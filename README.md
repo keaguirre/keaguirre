@@ -101,12 +101,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
-Total Time: 1 hr 32 mins
+Total Time: 34 mins
 
-Markdown   1 hr 17 mins    ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪   83.38 %
-JSON       15 mins         ⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   16.62 %
+Java             34 mins         ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫   99.89 %
+GitIgnore file   0 secs          ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   00.11 %
 ```
 
 <!--END_SECTION:waka-->
