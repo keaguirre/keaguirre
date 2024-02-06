@@ -1,8 +1,9 @@
 <h2> Analista Programador Computacional.</h2>
 <img src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/Keaguirre.png">
-<div style="margin-left: 20%;">
-	<img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
-</div>
+<!-- <div style="margin-left: 20%;"> -->
+	<!--<img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">-->
+<!-- </div> -->
+<!--
 <ul style="margin-left: 20%;">
 	<!--
 	<li>Trabajando en:
@@ -10,14 +11,17 @@
 		<a href="https://github.com/keaguirre/cafeScript-Backend">cafeScript Backend </a>
 	</li>
 	-->
+ <!--
 	<li>Aprendiendo:
 		<img height="20" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/>
-		<!-- Algoritmos en <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo"> --> &
-		<img src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+		<!-- Algoritmos en <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo"> --><!-- &
+		<!--<img src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+  <!--
 	</li>
 	<li> English B1 (Toeic Bridge)</li>
 	<li>Mechanical keyboards enthusiast</li>
 </ul>
+-->
 <h1>Experiencia</h1>
 <ul>
 	<li>
@@ -98,8 +102,10 @@
 	</tr>
 </table>
 -->
-<!--START_SECTION:waka-->
 
+<img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
+
+<!--START_SECTION:waka-->
 ```txt
 From: 29 January 2024 - To: 05 February 2024
 
@@ -109,5 +115,4 @@ JSON    5 mins          ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫�
 Other   1 min           ⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   16.10 %
 Java    0 secs          ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   00.39 %
 ```
-
 <!--END_SECTION:waka-->
