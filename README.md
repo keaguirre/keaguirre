@@ -1,5 +1,6 @@
+<h2> Analista Programador Computacional.</h2>
+<img src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/Keaguirre.png">
 <div style="margin-left: 20%;">
-	<h2> Analista Programador Computacional.</h2>
 	<img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
 </div>
 <ul style="margin-left: 20%;">
@@ -9,15 +10,14 @@
 		<a href="https://github.com/keaguirre/cafeScript-Backend">cafeScript Backend </a>
 	</li>
 	-->
-	<li>Por aprender:
-		Algoritmos en <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo"> &
+	<li>Aprendiendo:
+		<img height="20" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/>
+		<!-- Algoritmos en <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="python_logo"> --> &
 		<img src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-		<!-- <img height="20" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/go.png" alt="Golang_logo"/> -->
 	</li>
 	<li> English B1 (Toeic Bridge)</li>
 	<li>Mechanical keyboards enthusiast</li>
 </ul>
-
 <h1>Experiencia</h1>
 <ul>
 	<li>
