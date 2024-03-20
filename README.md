@@ -108,13 +108,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2024 - To: 18 March 2024
+From: 12 March 2024 - To: 19 March 2024
 
-Total Time: 10 hrs 26 mins
+Total Time: 8 hrs 55 mins
 
-HTML     9 hrs 41 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪   92.79 %
-Python   34 mins         ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   05.50 %
-XML      10 mins         ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   01.71 %
+HTML     6 hrs 53 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪   77.14 %
+Python   1 hr 51 mins    ⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   20.89 %
+XML      10 mins         ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   01.96 %
 ```
 
 <!--END_SECTION:waka-->
