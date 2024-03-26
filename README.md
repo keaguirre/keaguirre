@@ -108,15 +108,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
-Total Time: 12 hrs 3 mins
+Total Time: 11 hrs 28 mins
 
-PowerShell   4 hrs 2 mins    ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   33.57 %
-Bash         2 hrs 37 mins   ⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   21.71 %
-Python       1 hr 51 mins    ⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   15.46 %
-YAML         1 hr 36 mins    ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   13.41 %
-Text         1 hr 30 mins    ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   12.49 %
+PowerShell   4 hrs 2 mins    ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   35.25 %
+Bash         2 hrs 37 mins   ⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   22.80 %
+YAML         1 hr 36 mins    ⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   14.08 %
+Text         1 hr 30 mins    ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   13.12 %
+Python       1 hr 17 mins    ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   11.23 %
 ```
 
 <!--END_SECTION:waka-->
