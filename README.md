@@ -108,15 +108,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2024 - To: 26 April 2024
+From: 20 April 2024 - To: 27 April 2024
 
-Total Time: 10 hrs 16 mins
+Total Time: 11 hrs 50 mins
 
-Markdown      2 hrs 50 mins   ⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   27.62 %
-PHP           2 hrs 31 mins   ⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   24.59 %
-HTML          1 hr 22 mins    ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   13.37 %
-Lua           1 hr 5 mins     ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   10.65 %
-CSS           1 hr 2 mins     ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   10.11 %
+Markdown      4 hrs 24 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   37.24 %
+PHP           2 hrs 31 mins   ⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   21.32 %
+HTML          1 hr 22 mins    ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   11.59 %
+Lua           1 hr 5 mins     ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   09.23 %
+CSS           1 hr 2 mins     ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   08.77 %
 ```
 
 <!--END_SECTION:waka-->
