@@ -54,7 +54,7 @@
 	</li>
 	<li>
 		<h2>	
-			<a href="https://github.com/keaguirre/tiendaFacherita">Tienda Facherita</a>
+			<a href="https://github.com/keaguirre/pawsParadise">Paws Paradise</a>
 			<img src="https://img.icons8.com/color/32/000000/html-5--v1.png" alt="html_logo">
 			<img src="https://img.icons8.com/color/32/000000/css3.png" alt="css_logo">
 			<img  src="https://img.icons8.com/color/32/bootstrap.png" alt="bootstrap"/>
