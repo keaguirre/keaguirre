@@ -109,12 +109,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2024 - To: 11 June 2024
+From: 05 June 2024 - To: 12 June 2024
 
-Total Time: 3 hrs 20 mins
+Total Time: 4 hrs 14 mins
 
-HTML         3 hrs 16 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫   98.12 %
-SSH Config   3 mins          ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   01.88 %
+HTML         3 hrs 43 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪   87.88 %
+JSON         11 mins         ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   04.34 %
+Astro        8 mins          ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   03.26 %
+JavaScript   6 mins          ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   02.58 %
+SSH Config   3 mins          ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   01.48 %
 ```
 
 <!--END_SECTION:waka-->
