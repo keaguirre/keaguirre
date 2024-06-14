@@ -24,7 +24,7 @@
 -->
 <h3 align=center>Busca mis guías y apuntes en mis repositorios que contienen la palabra cheatSheet en su nombre!</h3>
 <h1>Insignias de certificación</h1>
-<img src="./icons/ghFoundations.png" alt="gh_foundations_logo" width="128">
+<img src="icons/ghFoundations.png" alt="gh_foundations_logo" width="128">
 <h1>Experiencia</h1>
 <ul>
 	<li>
