@@ -36,6 +36,7 @@
 			<img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="Javascript_logo">
 			<img src="https://img.icons8.com/color/32/typescript.png" alt="typescript"/>
 			<img src="https://img.icons8.com/color/32/tailwindcss.png" alt="tailwindcss"/>
+			<img src="https://img.icons8.com/color/32/python--v1.png" alt="python--v1"/>
 			<img src="https://img.icons8.com/color/32/000000/django.png" alt="django_logo">
 			<img src="https://img.icons8.com/color/32/postgreesql.png" alt="postgreesql"/>
 		</h2>
@@ -50,6 +51,7 @@
 			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo"/>
 			<img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="Javascript_logo">
 			<img src="https://img.icons8.com/color/32/typescript.png" alt="typescript"/>
+			<img src="https://img.icons8.com/color/32/python--v1.png" alt="python--v1"/>
 			<img src="https://img.icons8.com/color/32/000000/django.png" alt="django_logo">
 			<img src="https://img.icons8.com/color/32/postgreesql.png" alt="postgreesql"/>
 		</h2>
@@ -62,6 +64,7 @@
 			<img src="https://img.icons8.com/color/32/000000/css3.png" alt="css_logo">
 			<img  src="https://img.icons8.com/color/32/bootstrap.png" alt="bootstrap"/>
 			<img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="Javascript_logo">
+			<img src="https://img.icons8.com/color/32/python--v1.png" alt="python--v1"/>
 			<img src="https://img.icons8.com/color/32/000000/django.png" alt="django_logo">
 			<img width="32" height="32" src="https://raw.githubusercontent.com/keaguirre/keaguirre/180098ef0eb7f47b0b00c2d139d367636f06ef88/icons/sqlite-color.svg" alt="sqlite_logo">
 		</h2>
@@ -69,11 +72,13 @@
 	</li>
 	<li>
 		<h2>Otros</h2>
+		<img src="https://img.icons8.com/fluency/32/bash.png" alt="bash"/>
 		<img src="https://img.icons8.com/color/32/000000/red-hat.png" alt="logo_redhat">
 		<img src="https://img.icons8.com/color/32/000000/centos.png" alt="logo_centos">
+		<img src="https://img.icons8.com/color/32/docker.png" alt="docker"/>
+		<img src="https://img.icons8.com/color/32/debian.png" alt="debian"/>
 		<img src="https://img.icons8.com/color/32/000000/ubuntu--v1.png" alt="ubuntu_logo">
 		<img src="https://img.icons8.com/fluency/32/000000/fedora.png" alt="fedora_logo">
-		<img src="https://img.icons8.com/color/32/linux-mint.png" alt="linux-mint"/>
 		<img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo--v1.png" alt="java logo">
 	</li>
 </ul>
