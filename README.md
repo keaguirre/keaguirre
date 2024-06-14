@@ -23,6 +23,7 @@
 </ul>
 -->
 <h3 align=center>Busca mis guías y apuntes en mis repositorios que contienen la palabra cheatSheet en su nombre!</h3>
+<h1>Certificaciones Badges</h1>
 <h1>Experiencia</h1>
 <ul>
 	<li>
