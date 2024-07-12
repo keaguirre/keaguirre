@@ -30,7 +30,7 @@
 	</li>
 	<li>
 		<h2>Otros</h2>
-		<img src="https://skillicons.dev/icons?i=bash,redhat,docker,debian,ubuntu,java,git,github,selenium"/>
+		<img src="https://skillicons.dev/icons?i=git,github,java,selenium,docker,bash,debian,ubuntu,redhat"/>
 		<img src="https://img.icons8.com/color/48/000000/centos.png" alt="logo_centos">
 	</li>
 </ul>
