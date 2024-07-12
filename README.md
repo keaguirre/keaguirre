@@ -34,7 +34,6 @@
 		<img src="https://img.icons8.com/color/48/000000/centos.png" alt="logo_centos">
 	</li>
 </ul>
-<hr>
 <img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
 
 <!--START_SECTION:waka-->
