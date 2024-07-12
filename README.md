@@ -29,12 +29,6 @@
 		<h3>App de coordinación de movilización entre estudiantes</h3>
 	</li>
 	<li>
-		<h2>	
-			<a href="https://github.com/keaguirre/pawsParadise">Paws Paradise</a>
-			<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,django,sqlite"/>
-		<h3>Web de tienda de mascotas y administración de productos</h3>
-	</li>
-	<li>
 		<h2>Otros</h2>
 		<img src="https://skillicons.dev/icons?i=bash,redhat,docker,debian,ubuntu,java,git,github,selenium"/>
 		<img src="https://img.icons8.com/color/48/000000/centos.png" alt="logo_centos">
