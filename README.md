@@ -15,7 +15,7 @@
 		<h2>	
 			<a href="https://github.com/keaguirre/cafeScript">CafeScript</a> & 
 		    	<a href="https://github.com/keaguirre/cafeScript-Backend">CafeScript Backend</a>
-			<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,py,django,postgres,electron"/>
+			<img height="38px" src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,py,django,postgres,electron"/>
 		</h2>
 		<h3>App de Autoservicio para Cafetería cafeScript</h3>
 	</li>
@@ -23,8 +23,8 @@
 		<h2>	
 			<a href="https://github.com/keaguirre/teLlevoApp">TeLlevoAPP</a> & 
 		    	<a href="https://github.com/keaguirre/teLlevoAPP-Backend">TeLlevoAPP Backend</a>
-			<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,py,django,postgres"/>
-			<img src="https://img.icons8.com/color/48/null/ionic.png"/>
+			<img height="38px" src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,py,django,postgres"/>
+			<img src="https://img.icons8.com/color/38/null/ionic.png"/>
 		</h2>
 		<h3>App de coordinación de movilización entre estudiantes</h3>
 	</li>
