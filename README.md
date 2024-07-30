@@ -1,5 +1,5 @@
 <h2> Analista Programador Computacional.</h2>
-<img src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/Keaguirre.png">
+<img src="./icons/keaguirre_Banner2.png">
 <!-- <div style="margin-left: 20%;"> -->
 	<!--<img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">-->
 
