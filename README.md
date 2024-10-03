@@ -5,9 +5,10 @@
 
 <h3 align=center>Busca guías y apuntes en mi <a href="https://github.com/keaguirre/Notebook">repositorio de notas</a>!</h3>
 <h1>Insignias de certificación</h1>
- <a href="https://www.credly.com/badges/f6fadca9-4118-4900-9fde-e6b8ce0acb66/public_url" target="_blank"><img src="icons/ghFoundations.png" alt="gh_foundations_logo" width="128"></a>
+ <a href="https://www.credly.com/badges/f6fadca9-4118-4900-9fde-e6b8ce0acb66/public_url" target="_blank"><img src="icons/ghFoundations.png" alt="gh_foundations_badge" width="128"></a>
  <a href="https://learn.microsoft.com/es-mx/users/keaguirre/credentials/4aab756c5eb98ee0?ref=https%3A%2F%2F" target="_blank"><img src="icons/az900.png" alt="az900_logo" width="128"></a>
  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000590520/3bnv3x7jd6" target="_blank"><img src="icons/lpi-essentials.png" alt="az900_logo" width="128"></a>
+ <a href="https://www.credly.com/badges/f4ec4fe6-dfd7-4ce6-bd19-01fbf9c1f0ca/public_url" target="_blank"><img src="icons/ghCopilot.png" alt="gh_copilot_badge" width="120"></a>
  
 <h1>Reciente</h1>
 			<img src="https://skillicons.dev/icons?i=azure,aws,githubactions,terraform,bots,"/>
