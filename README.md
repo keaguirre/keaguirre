@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2024 - To: 22 October 2024
+From: 16 October 2024 - To: 23 October 2024
 
-Total Time: 5 hrs 10 mins
+Total Time: 4 hrs 51 mins
 
-XML          2 hrs 35 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   50.17 %
-PHP          1 hr 7 mins     ⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   21.87 %
-Markdown     1 hr 1 min      ⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   19.90 %
-Bash         15 mins         ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   05.15 %
-Git Config   5 mins          ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   01.90 %
+XML          2 hrs 52 mins   ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   59.36 %
+PHP          1 hr 10 mins    ⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   24.38 %
+Markdown     32 mins         ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   11.10 %
+JSON         7 mins          ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   02.46 %
+Git Config   5 mins          ⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   02.02 %
 ```
 
 <!--END_SECTION:waka-->
