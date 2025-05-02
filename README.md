@@ -1,4 +1,4 @@
-<h2> Analista Programador Computacional.</h2>
+<h2> Analista Programador Computacional & Infra/Ops Student. </h2>
 <img src="./icons/keaguirre_Banner.png">
 <!-- <div style="margin-left: 20%;"> -->
 	<!--<img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">-->
