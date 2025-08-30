@@ -12,10 +12,10 @@
  <a href="https://www.credly.com/badges/f4ec4fe6-dfd7-4ce6-bd19-01fbf9c1f0ca/public_url" target="_blank"><img src="icons/ghCopilot.png" alt="gh_copilot_badge" width="115"></a>
  
 <h1>DevOps</h1>
-			<img src="https://skillicons.dev/icons?i=azure,aws,git,github,githubactions,terraform,powershell,py,linux,bash,debian,ubuntu,redhat,docker"/>
+			<img src="https://skillicons.dev/icons?i=azure,aws,git,github,githubactions,terraform,powershell,py,linux,bash,debian,ubuntu,redhat,docker&perline=14"/>
 			<img src="https://skills.syvixor.com/api/icons?i=fedora,vim,vmware,podman,cloudflare"/>
 <h1>Dev</h1>
-			<img src="https://skillicons.dev/icons?i=py,django,flask,js,ts,astro,angular,nodejs,express,go,git,github,tailwind,postgres,electron"/>
+			<img src="https://skillicons.dev/icons?i=py,django,flask,js,ts,astro,angular,nodejs,express,go,git,github,tailwind,postgres,electron&perline=14"/>
 <img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
 
 <!--START_SECTION:waka-->
