@@ -13,6 +13,7 @@
  
 <h1>DevOps</h1>
 			<img src="https://skillicons.dev/icons?i=azure,aws,git,github,githubactions,terraform,powershell,py,linux,bash,debian,ubuntu,redhat,docker"/>
+			<img src="https://skills.syvixor.com/api/icons?i=fedora,vim,vmware,podman,cloudflare"/>
 <h1>Dev</h1>
 			<img src="https://skillicons.dev/icons?i=py,django,flask,js,ts,astro,angular,nodejs,express,go,git,github,tailwind,postgres,electron"/>
 <img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
