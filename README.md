@@ -9,6 +9,7 @@
  <a href="https://learn.microsoft.com/es-mx/users/keaguirre/credentials/4aab756c5eb98ee0?ref=https%3A%2F%2F" target="_blank"><img src="icons/az900.png" alt="az900_logo" width="128"></a>
  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000590520/3bnv3x7jd6" target="_blank"><img src="icons/lpi-essentials.png" alt="az900_logo" width="128"></a>
  <a href="https://www.credly.com/badges/f6fadca9-4118-4900-9fde-e6b8ce0acb66/public_url" target="_blank"><img src="icons/ghFoundations.png" alt="gh_foundations_badge" width="128"></a>
+ <a href="https://learn.microsoft.com/api/credentials/share/en-us/keaguirre/3FB2A4C7C81A04B7?sharingId=7815DE5FEDF515E0" target="_blank"><img src="icons/gh-admin.png" alt="gh_admin_badge" width="125"></a>
  <a href="https://www.credly.com/badges/f4ec4fe6-dfd7-4ce6-bd19-01fbf9c1f0ca/public_url" target="_blank"><img src="icons/ghCopilot.png" alt="gh_copilot_badge" width="115"></a>
  
 <h1>DevOps</h1>
