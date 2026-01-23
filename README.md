@@ -22,12 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2026 - To: 22 January 2026
+From: 16 January 2026 - To: 23 January 2026
 
-Total Time: 17 mins
+Total Time: 41 mins
 
-Python   17 mins         ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫   99.26 %
-Other    0 secs          ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   00.74 %
+Markdown   28 mins         ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪   69.54 %
+YAML       6 mins          ⚫⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   16.94 %
+Python     5 mins          ⚫⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   13.20 %
+Other      0 secs          ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪   00.32 %
 ```
 
 <!--END_SECTION:waka-->
