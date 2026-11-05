@@ -13,8 +13,8 @@
  <a href="https://learn.microsoft.com/api/credentials/share/en-us/keaguirre/3FB2A4C7C81A04B7?sharingId=7815DE5FEDF515E0" target="_blank"><img src="icons/gh-admin.svg" alt="gh_admin_badge" width="125"></a>
  
 <h1>DevOps</h1>
-			<img src="https://skillicons.dev/icons?i=azure,aws,gcp,git,github,githubactions,docker,kubernetes,terraform,powershell,py,linux,bash,debian,ubuntu,redhat,nix,&perline=14"/>
-			<img src="https://skills.syvixor.com/api/icons?i=fedora,vim,vmware,packer,podman,cloudflare,prometheus,grafana"/>
+			<img src="https://skillicons.dev/icons?i=azure,aws,gcp,git,github,githubactions,docker,kubernetes,terraform,powershell,cloudflare,py&perline=16"/>
+			<img src="https://skills.syvixor.com/api/icons?i=linux,bash,debian,ubuntu,redhat,nix,fedora,vim,prometheus,grafana,vmware"/>
 <h1>Dev</h1>
 			<img src="https://skillicons.dev/icons?i=py,django,flask,js,ts,astro,angular,nodejs,express,go,git,github,tailwind,postgres,obsidian,electron,selenium&perline=14"/>
-<img align="center" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
+			<img align="center" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
