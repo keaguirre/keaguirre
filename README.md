@@ -17,4 +17,4 @@
 			<img src="https://skills.syvixor.com/api/icons?i=fedora,vim,vmware,packer,podman,cloudflare,prometheus,grafana"/>
 <h1>Dev</h1>
 			<img src="https://skillicons.dev/icons?i=py,django,flask,js,ts,astro,angular,nodejs,express,go,git,github,tailwind,postgres,obsidian,electron,selenium&perline=14"/>
-<img align="right" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
+<img align="center" height="160" width="160" src="https://raw.githubusercontent.com/keaguirre/keaguirre/main/icons/hk-codin.gif">
